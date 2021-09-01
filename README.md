@@ -1,1 +1,1 @@
-![](demo/Visual Demo.gif)
+demo/stage.jpg
